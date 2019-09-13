@@ -20,6 +20,9 @@ Bruteforce detection from Microsoft ATA Log File
 # Ips.jpg
 Comodo IPS rule definition
 
+# Facebook_bug.pdf
+A detailed explanation for the facebook bug program
+
 # NTFS Forensics (Article)
 https://www.linkedin.com/pulse/ntfs-forensics-aydın-keskin/
 
